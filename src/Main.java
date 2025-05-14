@@ -23,7 +23,7 @@ public class Main {
                 System.out.println("Dommage, votre réponse est inférieure au nombre. Reéssayez");
             }
 
-            if (i == 10 && answ != nbr){
+            if (i == 10){
                 System.out.println("Désolé vous n'avez plus de tentative restante");
             }
         }
